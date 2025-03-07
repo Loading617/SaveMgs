@@ -1,2 +1,2 @@
 # SMessage
-Message Saver for Android 
+Save a Message from a Sender Android App
